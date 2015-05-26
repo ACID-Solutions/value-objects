@@ -1,0 +1,9 @@
+default:
+    formatter:
+        name: pretty
+        parameters:
+            output_styles:
+                passed: [green]
+                failed: [red]
+                failed_param: [red]
+                passed_param: [green]
