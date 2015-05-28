@@ -1,8 +1,6 @@
 # ValueObjects
 
-It's a fucking easy to use bulk of classes.
-
-It's for laravel of course
+It's an easy to use bulk of classes.
 
 ## Install
 

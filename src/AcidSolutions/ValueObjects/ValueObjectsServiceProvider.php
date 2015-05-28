@@ -22,7 +22,7 @@ class ValueObjectsServiceProvider extends ServiceProvider {
 
         public function boot()
         {
-            $this->package('freyskeyd/value-objects');
+            $this->package('acid-solutions/value-objects');
 
             AliasLoader::getInstance()->alias(
                 'Decimal',
